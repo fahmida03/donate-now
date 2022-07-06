@@ -100,7 +100,7 @@ body{
 }
 .plan-heading h1{
     font-size: 45px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .plan-heading p{
     font-size: 18px;
@@ -169,12 +169,12 @@ body{
 
 }
 .subscribe input{
-    width: 432px;
+    width: 260px;
     height: 48px;
     background-color: rgb(228, 224, 224);
     border: none;
     border-radius: 5px 0px 0px 5px;
-    margin-left: 100px;
+    margin-left: 170px;
     margin-top: 80px;
     font-size: 17px;
     font-weight: bold;
@@ -188,6 +188,46 @@ body{
     border: none;
     border-radius: 0px 5px 5px 0px;
     margin: -5px;
-    padding-top: 5px;
-    padding-bottom: 2px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: white;
+    font-size: 17px;
+}
+footer{
+    background: #0B0D17;
+    padding-top: 40px;
+}
+.footers{
+    display: flex;
+    height: 250px;
+    width: 900px;
+    margin-left: 350px;
+}
+.donor{
+    width: 250px;
+    padding-right: 40px;
+}
+.nonprofits{
+    width: 250px;
+    padding-left: 30px;
+}
+.companies{
+    width: 250px;
+    padding-left: 30px;
+}
+.about-us{
+    width: 250px;
+    padding-left: 30px;
+}
+.head{
+    color: #FF5959;
+}
+.head-p{
+    color: white;
+}
+#copy{
+    font-size: 13px;
+    text-align: center;
+    color: #FF5959;
+    padding-bottom: 30px;
 }
