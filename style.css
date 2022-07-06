@@ -258,3 +258,85 @@ footer{
     font-size: 18px;
     color: white;
 }
+.experience{
+    display: flex;
+    height: 900px;
+    margin-left: 150px;
+}
+.story-head h1{
+    color: black;
+    text-align: center;
+    font-size: 50px;
+}
+.story img{
+    width: 700px;
+    height: 700px;
+    border-radius: 30px 30px 0px 0px;
+}
+.story1{
+   text-align: center;
+}
+.story11 img{
+    width: 450px;
+    height: 250px;
+    border-radius: 30px 30px 0px 0px;
+}
+.story12 img{
+    width: 450px;
+    height: 250px;
+    border-radius: 30px 30px 0px 0px;
+}
+li{
+    list-style-type: none;
+}
+.story{
+    background-color: rgb(244, 145, 52);
+    color: white;
+    border-radius: 30px 30px;
+    text-align: center;
+    font-size: 18px;
+    height: 850px;
+}
+.story button{
+    width: 230px;
+    height: 56px;
+    color: white;
+    background: #FF5959;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.story11{
+    background-color: rgb(12, 178, 189);
+    width: 450px;
+    color: white;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin-top: -16px;
+}
+.story11 button{
+    width: 180px;
+    height: 45px;
+    color: white;
+    background: #FF5959;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
+.story12{
+    background-color: rgb(144, 46, 224);
+    width: 450px;
+    color: white;
+    padding-bottom: 20px;
+    border-radius: 30px;
+    margin-top: 45px;
+}
+.story12 button{
+    width: 180px;
+    height: 45px;
+    color: white;
+    background: #FF5959;
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+}
